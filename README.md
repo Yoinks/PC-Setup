@@ -9,14 +9,14 @@ Install Window 10 Pro from usb boot drive
 ### Required Optional Software / Drivers
 
 [`Nvidia`](https://www.nvidia.com/Download/driverResults.aspx/162105/en-us)
-[`Chrome`](https://www.google.com/chrome/)
+[`Chrome`](https://www.google.com/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#)
 
 
 ### Optional Software
 
-[`Discord`](https://discord.com/new)
-[`Steam`](https://steamcommunity.com/)
-[`Razer Synapse 3`](https://www.razer.com/synapse-3)
+[`Discord`](https://discord.com/api/download?platform=win)
+[`Steam`](https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe)
+[`Razer Synapse 3`](http://rzr.to/synapse-3-pc-download)
 [`Bandicam`](https://www.bandicam.com/downloads/)
 
 
