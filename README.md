@@ -66,6 +66,7 @@ Pin More
 > Environment Variables
 
 Add System Evironment Variables
+
 ANDROID_HOME = PATH TO ANDROID SDK ROOT FOLDER
 JAVA_HOME = PATH TO JDK
 
