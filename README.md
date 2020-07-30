@@ -1,10 +1,10 @@
 # My Window Setup
 
-Collection of software and settings for my personal computer
+> Collection of software and settings for my personal computer
 
 ## Getting Started
 
-Install Window 10 Pro from usb boot drive
+> Install Window 10 Pro from usb boot drive
 
 ### Required Optional Software / Drivers
 
@@ -28,21 +28,25 @@ Install Window 10 Pro from usb boot drive
 
 ### Development Software Downloads
 
-| IDEs
+> IDEs
 [`VSCode`](https://code.visualstudio.com/)
 [`Android Studio`](https://developer.android.com/studio)
 [`Intellij`](https://www.jetbrains.com/idea/download/#section=windows)
 [`Clion`](https://www.jetbrains.com/clion/download/#section=windows)
 
+[`Unity`](https://unity3d.com/get-unity/download)
+[`Unreal`](https://www.unrealengine.com/en-US/get-now)
+
+> Languages
 [`GoLang`](https://golang.org/dl/)
 [`Java JDK`](https://www.oracle.com/java/technologies/javase-downloads.html)
 [`NodeJS`](https://nodejs.org/en/download/)
 
-[`Unity`](https://unity3d.com/get-unity/download)
-[`Unreal`](https://www.unrealengine.com/en-US/get-now)
+> Docker
+[`Docker`](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 
 ### Install / Configure
-VSCode
+> VSCode
 ```
 Plugins
     Material Theme
@@ -51,10 +55,15 @@ Plugins
     C++
 ```
 
-Microsoft Store
+> Microsoft Store
 ```
 Pin More
 ```
+
+> Environment Variables
+Add System Evironment Variables
+ANDROID_HOME = PATH TO ANDROID SDK ROOT FOLDER
+JAVA_HOME = PATH TO JDK
 
 ### Games
 
@@ -63,7 +72,7 @@ Pin More
 
 Navigate: C:\Program Files (x86)\Outlands Ultima Online\ClassicUO\Data
 
-CMD
+> CMD
 ```
 git clone git@github.com:Yoinks/UltimaOnlineMacros.git
 ```
