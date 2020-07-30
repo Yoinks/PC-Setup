@@ -10,14 +10,20 @@ Install Window 10 Pro from usb boot drive
 
 [`Nvidia`](https://www.nvidia.com/Download/driverResults.aspx/162105/en-us)
 [`Chrome`](https://www.google.com/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#)
+[`Asus MOBO`](https://www.asus.com/Motherboards/TUF-GAMING-X570-PLUS/HelpDesk_Download/)
 
 
 ### Optional Software
 
 [`Discord`](https://discord.com/api/download?platform=win)
-[`Steam`](https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe)
 [`Razer Synapse 3`](http://rzr.to/synapse-3-pc-download)
 [`Bandicam`](https://www.bandicam.com/downloads/)
+[`iCUE`](http://downloads.corsair.com/Files/CUE/iCUESetup_3.31.81_release.msi)
+[`Asus Aura Sync`](https://www.asus.com/campaign/aura/global/download.php)
+
+[`Steam`](https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe)
+[`Origin`](https://www.dm.origin.com/download)
+[`Blizard`](https://www.battle.net/download/getInstallerForGame?os=win&locale=enUS&version=LIVE&gameProgram=BATTLENET_APP&id=1031746726.1593997437)
 
 
 ### Development Software Downloads
@@ -48,7 +54,7 @@ Plugins
 
 ### Games
 
-[`UO Outlands`](https://uooutlands.com/connecting/)
+[`UO Outlands`](http://www.uooutlands.com/download.php)
 
 
 Navigate: C:\Program Files (x86)\Outlands Ultima Online\ClassicUO\Data
