@@ -1,8 +1,6 @@
-# My Window Setup
+# My Window Setup <img align="right" width="100" height="100" src="githubUnicron.png">
 
 > Collection of software and settings for my personal computer
-
-![](githubUnicron.png)
 
 ## Getting Started
 
