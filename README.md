@@ -51,6 +51,10 @@ Plugins
     C++
 ```
 
+Microsoft Store
+```
+Pin More
+```
 
 ### Games
 
