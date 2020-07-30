@@ -48,10 +48,11 @@ Plugins
 
 ### Games
 
-[`UO Outlands`](https://uooutlands.com/connecting/
+[`UO Outlands`](https://uooutlands.com/connecting/)
 
 
-Navigate to 
+Navigate: C:\Program Files (x86)\Outlands Ultima Online\ClassicUO\Data
+CMD
 ```
 git clone git@github.com:Yoinks/UltimaOnlineMacros.git
 ```
