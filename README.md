@@ -29,6 +29,7 @@
 ### Development Software Downloads
 
 > IDEs
+
 [`VSCode`](https://code.visualstudio.com/)
 [`Android Studio`](https://developer.android.com/studio)
 [`Intellij`](https://www.jetbrains.com/idea/download/#section=windows)
@@ -38,11 +39,13 @@
 [`Unreal`](https://www.unrealengine.com/en-US/get-now)
 
 > Languages
+
 [`GoLang`](https://golang.org/dl/)
 [`Java JDK`](https://www.oracle.com/java/technologies/javase-downloads.html)
 [`NodeJS`](https://nodejs.org/en/download/)
 
 > Docker
+
 [`Docker`](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 
 ### Install / Configure
@@ -61,6 +64,7 @@ Pin More
 ```
 
 > Environment Variables
+
 Add System Evironment Variables
 ANDROID_HOME = PATH TO ANDROID SDK ROOT FOLDER
 JAVA_HOME = PATH TO JDK
