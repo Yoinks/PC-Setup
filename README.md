@@ -38,7 +38,7 @@ Install Window 10 Pro from usb boot drive
 [`Java JDK`](https://www.oracle.com/java/technologies/javase-downloads.html)
 [`NodeJS`](https://nodejs.org/en/download/)
 
-[`Unity`](https://unity3d.com/get-unity/download{:target="_blank" rel="noopener"})
+[`Unity`](https://unity3d.com/get-unity/download)
 [`Unreal`](https://www.unrealengine.com/en-US/get-now)
 
 ### Install / Configure
