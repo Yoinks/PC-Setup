@@ -1,11 +1,10 @@
 # My Window Setup
 
-One Paragraph of project description goes here
+Collection of software and settings for my personal computer
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+Install Window 10 Pro from usb boot drive
 
 ### Required Optional Software / Drivers
 
@@ -26,15 +25,15 @@ These instructions will get you a copy of the project up and running on your loc
 ## IDEs
 [`VSCode`](https://code.visualstudio.com/)
 [`Android Studio`](https://developer.android.com/studio)
-[`Intellij`]()
-[`Clion`]()
-
+[`Intellij`](https://www.jetbrains.com/idea/download/#section=windows)
+[`Clion`](https://www.jetbrains.com/clion/download/#section=windows)
 
 [`GoLang`](https://golang.org/dl/)
 [`Java JDK`](https://www.oracle.com/java/technologies/javase-downloads.html)
-[`NodeJS`]()
+[`NodeJS`](https://nodejs.org/en/download/)
 
-
+[`Unity`](https://unity3d.com/get-unity/download)
+[`Unreal`](https://www.unrealengine.com/en-US/get-now)
 
 ### Install / Configure
 VSCode
@@ -49,6 +48,13 @@ Plugins
 
 ### Games
 
+[`UO Outlands`](https://uooutlands.com/connecting/
+
+
+Navigate to 
+```
+git clone git@github.com:Yoinks/UltimaOnlineMacros.git
+```
 
 
 ### Backup Directories
