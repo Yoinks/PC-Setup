@@ -28,7 +28,7 @@ Install Window 10 Pro from usb boot drive
 
 ### Development Software Downloads
 
-## IDEs
+#### IDEs
 [`VSCode`](https://code.visualstudio.com/)
 [`Android Studio`](https://developer.android.com/studio)
 [`Intellij`](https://www.jetbrains.com/idea/download/#section=windows)
