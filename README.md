@@ -23,17 +23,28 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Development Software Downloads
 
+## IDEs
 [`VSCode`](https://code.visualstudio.com/)
+[`Android Studio`](https://developer.android.com/studio)
+[`Intellij`]()
+[`Clion`]()
+
+
 [`GoLang`](https://golang.org/dl/)
-[`Java JDK`]
-[`Android SDK`]
-[`Android Platform tools`]
-[`NodeJS`]
+[`Java JDK`](https://www.oracle.com/java/technologies/javase-downloads.html)
+[`NodeJS`]()
 
 
 
 ### Install / Configure
-
+VSCode
+```
+Plugins
+    Material Theme
+    Java
+    C#
+    C++
+```
 
 
 ### Games
